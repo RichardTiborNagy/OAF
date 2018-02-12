@@ -1,0 +1,5 @@
+3
+H hal1 8
+K kutya1 5
+M madar1 3
+jar
