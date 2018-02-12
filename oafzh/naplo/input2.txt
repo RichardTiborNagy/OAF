@@ -1,0 +1,12 @@
+AAAA 1
+tori 5
+BBBB 1
+tori 5
+CCCC 1
+tori 4
+GGGG 1
+tori 4
+MMMM 1
+tori 3
+XXXX 1
+tori 2

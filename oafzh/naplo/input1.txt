@@ -1,0 +1,14 @@
+BBBB 3
+angol 5
+matek 4
+fizika 3
+DDDD 2
+matek 5
+matek 2
+GGGG 0
+MMMM 4
+magyar 4
+matek 5
+angol 5
+matek 5
+
